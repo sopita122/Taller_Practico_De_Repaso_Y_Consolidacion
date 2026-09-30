@@ -5,26 +5,3 @@ El programa reúne tres retos principales:
     - **Punteros e intercambio de valores:** se utilizan punteros, pasaje por dirección y desreferenciación para modificar directamente los valores de dos variables y realizar un intercambio entre ellas.
 Además, el proyecto permite observar las direcciones de memoria mediante el operador `&` y trabajar con conceptos relacionados con la memoria RAM, los arreglos contiguos y las direcciones hexadecimales.
 
-## Tecnologías utilizadas
-- C++
-- Visual Studio Code
-- G++
-- Git
-- GitHub
-- GitLab
-
-## Estructura del proyecto
-<pre>
-repasogeneral/
-├── .gitignore
-├── LICENSE
-├── README.md
-├── docs/
-│   ├── InformeEEST1_LPR2026_ACT06_G03_Informe_v1.0.0.pdf
-│   └── CHANGELOG.md
-├── src/
-│   └── main.cpp
-└── capturas/
-    ├── ejecucion_repasogeneral.png
-    └── traza_memoria.png
-</pre>

@@ -17,7 +17,7 @@ void intercambiarValores(int* ptrA, int* ptrB);
 
 int main() {
     cout << "=====================================================" << endl;
-    cout << "  TALLER INTEGRADOR REPASO - ESTUDIANTE: Jung Kook " << endl;
+    cout << "  TALLER INTEGRADOR REPASO - ESTUDIANTE: Sofia Salaberry " << endl;
     cout << "=====================================================" << endl;
 
     // --- RETO 1: RECURSIVIDAD ---
