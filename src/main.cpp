@@ -64,7 +64,7 @@ int sumaRecursiva(int n) {
     if (n <= 0) return 0; // Caso base obligatorio para prevenir Stack Overflow
     return n + sumaRecursiva(n - 1); // Llamada recursiva
 }
-
+ 
 // Desarrollo del intercambio físico mediante desreferenciación
 void intercambiarValores(int* ptrA, int* ptrB) {
     int temporal = *ptrA;
